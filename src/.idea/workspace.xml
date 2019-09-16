@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7bdf03c-b75a-46e4-8816-8a56076464a9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/edu/gatech/oad/antlab/person/Person3.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/edu/gatech/oad/antlab/person/Person3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/edu/gatech/oad/antlab/pkg1/AntLabMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/edu/gatech/oad/antlab/pkg1/AntLabMain.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +12,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/java/edu/gatech/oad/antlab/person/Person3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="567">
               <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main/java/edu/gatech/oad/antlab/pkg1/AntLabMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="523">
+              <caret line="68" column="42" selection-start-line="68" selection-start-column="42" selection-end-line="68" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -31,6 +39,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/main/java/edu/gatech/oad/antlab/person/Person3.java" />
+        <option value="$PROJECT_DIR$/main/java/edu/gatech/oad/antlab/pkg1/AntLabMain.java" />
       </list>
     </option>
   </component>
@@ -110,6 +119,17 @@
               <item name="antlab" type="462c0819:PsiDirectoryNode" />
               <item name="person" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="gatech" type="462c0819:PsiDirectoryNode" />
+              <item name="oad" type="462c0819:PsiDirectoryNode" />
+              <item name="antlab" type="462c0819:PsiDirectoryNode" />
+              <item name="pkg1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -182,6 +202,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
           <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/java/edu/gatech/oad/antlab/pkg1/AntLabMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="68" column="42" selection-start-line="68" selection-start-column="42" selection-end-line="68" selection-end-column="42" />
         </state>
       </provider>
     </entry>
